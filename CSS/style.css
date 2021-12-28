@@ -1,5 +1,15 @@
 
 
+a {
+    color: #212121;
+    text-decoration: none;
+}
+
+body{
+    margin-top: 10%;
+}
+
+
 .Profile{
     text-align: center;
     margin-bottom: 40px;
@@ -20,5 +30,9 @@
     margin-bottom: 16px;
     margin-right: auto;
     margin-left: auto;
+}
+
+.item-link :hover{
+    opacity: 0.2;
 }
 
